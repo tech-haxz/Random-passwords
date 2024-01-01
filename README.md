@@ -2,4 +2,7 @@
 
 <p>This is a randomaly strong password generator tool </p>
 
-<strong>Author - Vinay Kumar <strong>
+<h3>Usage:</h3>
+<code>python3 password_generator.py</code>
+
+<center><strong>Author - Vinay Kumar <strong></center>
