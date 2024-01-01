@@ -5,4 +5,5 @@
 <h3>Usage:</h3>
 <code>python3 password_generator.py</code>
 <br>
-<center><strong>Author - Vinay Kumar <strong></center>
+<br>
+<strong>Author - Vinay Kumar <strong>
