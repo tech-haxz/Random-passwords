@@ -1,4 +1,4 @@
-//Author : Vinay ~ White Devil
+"""Author : Vinay ~ White Devil """
 
 import os
 import time
